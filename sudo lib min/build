@@ -1,0 +1,1 @@
+g++ -O3  main.cpp bit_matrix.cpp Sudo.cpp -o sudo

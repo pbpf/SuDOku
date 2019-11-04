@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeLite_Workspace Name="sudo" Database="./sudo.tags">
+  <Project Name="max" Path="max.project" Active="Yes"/>
+  <Project Name="tt" Path="tt.project" Active="No"/>
+  <Project Name="permute" Path="permute/permute.project" Active="No"/>
+  <Project Name="lam" Path="lam/lam.project" Active="No"/>
+  <Project Name="m" Path="m/m.project" Active="No"/>
+  <Project Name="Everything" Path="Everything/Everything.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="max" ConfigName="Debug"/>
+      <Project Name="tt" ConfigName="Debug"/>
+      <Project Name="permute" ConfigName="Debug"/>
+      <Project Name="lam" ConfigName="Debug"/>
+      <Project Name="m" ConfigName="Debug"/>
+      <Project Name="Everything" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Project Name="max" ConfigName="Release"/>
+      <Project Name="tt" ConfigName="Release"/>
+      <Project Name="permute" ConfigName="Release"/>
+      <Project Name="lam" ConfigName="Release"/>
+      <Project Name="m" ConfigName="Release"/>
+      <Project Name="Everything" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
